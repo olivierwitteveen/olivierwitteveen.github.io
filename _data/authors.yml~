@@ -1,0 +1,11 @@
+Olivier Witteveen:
+  name        : "Olivier Witteveen"
+  bio         : "Bio here."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "GitHub"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/olivierwitteveen"
