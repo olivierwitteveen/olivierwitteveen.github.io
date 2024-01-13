@@ -1,6 +1,6 @@
-Olivier Witteveen:
-  name        : "Olivier Witteveen"
-  bio         : "Bio here."
+Olivier:
+  name        : "Olivier"
+  bio         : "PhD student in theoretical biophysics at TU Delft."
   avatar      : "/assets/images/Olivier_profile.jpg"
   links:
     - label: "Email"
