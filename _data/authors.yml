@@ -1,11 +1,14 @@
 Olivier:
   name        : "Olivier"
-  bio         : "PhD student in theoretical biophysics at TU Delft."
+  bio         : "PhD student in theoretical biophysics"
   avatar      : "/assets/images/Olivier_profile.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
+      url: "mailto:O.Z.J.Witteveen@tudelft.nl"
     - label: "GitHub"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-github"
       url: "https://github.com/olivierwitteveen"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/olivier-witteveen/"
