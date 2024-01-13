@@ -18,6 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+
+
+
 title: Olivier's Website
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -32,13 +35,14 @@ github_username:  jekyll
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-
+# Site skin
 minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # pagination settings
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -55,6 +59,19 @@ defaults:
       comments: true
       share: true
       related: true
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/olivierwitteveen/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/olivier-witteveen/"
+
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
