@@ -55,7 +55,7 @@ defaults:
       type: projects
     values:
       layout: single
-      author: "Olivier
+      author: "Olivier"
       author_profile: true
 
 # Collections
