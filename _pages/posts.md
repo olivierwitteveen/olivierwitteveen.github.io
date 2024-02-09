@@ -3,6 +3,6 @@ layout: home
 title: "Posts"
 collection: posts
 permalink: /posts/
-author_profile: true
+author_profile: False
 author: "Olivier"
 ---

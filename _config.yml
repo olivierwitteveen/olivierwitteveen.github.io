@@ -47,6 +47,7 @@ defaults:
       type: posts
     values:
       layout: single
+      author: "Olivier"
       author_profile: true
   # _projects
   - scope:
@@ -54,7 +55,15 @@ defaults:
       type: projects
     values:
       layout: single
+      author: "Olivier
       author_profile: true
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Site Footer
 footer:
@@ -66,6 +75,9 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/olivier-witteveen/"
 
+# Hide RSS icon
+atom_feed:
+  hide: true
 
 include:
     - _pages
