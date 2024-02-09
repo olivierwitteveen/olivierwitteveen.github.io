@@ -35,10 +35,6 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # Site skin
 minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-# pagination settings
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-
 # Plugins
 plugins:
   - jekyll-feed
@@ -77,6 +73,8 @@ footer:
 
 include:
     - _pages
+    - _projects
+    - _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default.
