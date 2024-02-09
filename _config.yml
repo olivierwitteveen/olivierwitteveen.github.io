@@ -56,6 +56,13 @@ defaults:
       comments: true
       share: true
       related: true
+  # _projects
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Site Footer
 footer:
@@ -68,7 +75,8 @@ footer:
       url: "https://www.linkedin.com/in/olivier-witteveen/"
 
 
-
+include:
+    - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
