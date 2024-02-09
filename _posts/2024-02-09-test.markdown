@@ -1,0 +1,18 @@
+---
+title:  "Test!"
+date:   2024-02-09 19:28:28 +0100
+categories: jekyll update
+
+layout: single
+author_profile: true
+read_time: true
+comments: false
+share: true
+related: false
+---
+
+Test! 
+
+Does LaTeX work? 
+
+$$ \test $$. 
