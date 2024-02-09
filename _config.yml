@@ -48,14 +48,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _projects
   - scope:
       path: ""
-      type: pages
+      type: projects
     values:
       layout: single
       author_profile: true
@@ -73,8 +69,6 @@ footer:
 
 include:
     - _pages
-    - _projects
-    - _posts
 
 # Exclude from processing.
 # The following items will not be processed, by default.
