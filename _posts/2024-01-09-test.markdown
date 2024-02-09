@@ -15,4 +15,4 @@ Test!
 
 Does LaTeX work? 
 
-$$ \test $$. 
+$$ \alpha $$. 
