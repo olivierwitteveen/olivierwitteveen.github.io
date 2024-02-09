@@ -5,7 +5,7 @@ sitemap: true
 permalink: /
 author_profile: true
 header:
-  overlay_image: /assets/yosemite.jpg
+  overlay_image: /assets/images/yosemite.jpg
   overlay_filter: 0.3
 ---
 
