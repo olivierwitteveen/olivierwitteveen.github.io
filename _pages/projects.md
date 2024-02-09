@@ -8,6 +8,7 @@ author: "Olivier"
 header:
   overlay_image: /assets/images/meijendel.jpg
   overlay_filter: 0.3
+classes: wide
 ---
 
 This is where I keep my projects.

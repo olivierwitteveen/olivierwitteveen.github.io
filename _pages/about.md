@@ -7,6 +7,7 @@ permalink: /about/
 header:
   overlay_image: /assets/images/singapore.jpg
   overlay_filter: 0.3
+classes: wide
 ---
 
 <script
