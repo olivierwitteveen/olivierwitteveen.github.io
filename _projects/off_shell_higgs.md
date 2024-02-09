@@ -1,7 +1,7 @@
 ---
 title: "Off-shell Higgs studies at the Large Hadron Collider"
 layout: wide
-author_profile: False
+author_profile: false
 author: "Olivier" 
 permalink: /projects/off-shell-higgs/
 classes: wide
