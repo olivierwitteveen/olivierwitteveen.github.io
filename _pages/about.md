@@ -18,11 +18,11 @@ classes: wide
 
 ## Education
 
-2023&mdash;present: PhD in Theoretical Biophysics, TU Delft
+2023&mdash;present | PhD in Theoretical Biophysics | TU Delft
 : Advisor: Prof. Marianne Bauer
 
-2021&mdash;2022: MMathPhys Mathematical and Theoretical Physics, University of Oxford
+2021&mdash;2022 | MMathPhys Mathematical and Theoretical Physics | University of Oxford
 : Advisor: Prof. Fabrizio Caola
 
-2018&mdash;2021: BA Physics, University of Oxford  
+2018&mdash;2021 | BA Physics | University of Oxford  
 : 

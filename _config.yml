@@ -66,14 +66,14 @@ collections:
 
 
 # Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/olivierwitteveen/"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/olivier-witteveen/"
+#footer:
+#  links:
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/olivierwitteveen/"
+#    - label: "Linkedin"
+#      icon: "fab fa-fw fa-linkedin"
+#      url: "https://www.linkedin.com/in/olivier-witteveen/"
 
 # Hide RSS icon
 atom_feed:
