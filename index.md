@@ -8,6 +8,7 @@ author_profile: true
 header:
   overlay_image: /assets/images/yosemite.jpg
   overlay_filter: 0.3
+  caption: "Yosemite, California (2022)"
 classes: wide
 ---
 Nice to meet you!
