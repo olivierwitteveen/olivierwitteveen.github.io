@@ -10,6 +10,7 @@ header:
   overlay_filter: 0.3
   caption: "Meijendel, Wassenaar, the Netherlands (2019)"
 classes: wide
+entries_layout: grid
 ---
 
-This is where I keep my projects.
+Incomplete list of projects. More soon!
