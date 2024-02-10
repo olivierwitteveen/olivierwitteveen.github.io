@@ -65,7 +65,7 @@ collections:
     permalink: /:collection/:path/
 
 # Logo on top left
-logo: "/assets/images/88x88.png"
+logo: "/assets/images/logo.jpg"
 
 # Site Footer
 #footer:
