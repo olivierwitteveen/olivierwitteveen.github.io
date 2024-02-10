@@ -64,6 +64,8 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+# Logo on top left
+logo: "/assets/images/88x88.png"
 
 # Site Footer
 #footer:
