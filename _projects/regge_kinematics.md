@@ -7,4 +7,4 @@ permalink: /projects/regge-kinematics/
 classes: wide
 ---
 
-Regge kinematics. [Link](https://olivierwitteveen.github.io/assets/pdfs/olivier_dissertation.pdf)
+[Link](https://olivierwitteveen.github.io/assets/pdfs/olivier_dissertation.pdf)
