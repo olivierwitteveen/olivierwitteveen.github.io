@@ -12,3 +12,6 @@ Olivier:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:O.Z.J.Witteveen@tudelft.nl"
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=qED26FEAAAAJ"
