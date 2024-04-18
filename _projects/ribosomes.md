@@ -1,5 +1,6 @@
 ---
 title: "Dynamics of ribosome translation"
+excerpt: "Novel experimental techniques allow tracking of single ribosomes."
 permalink: /projects/ribosomes/
 header:
   teaser: /assets/images/socRNA.jpg
