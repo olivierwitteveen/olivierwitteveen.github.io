@@ -56,7 +56,8 @@ defaults:
     values:
       layout: single
       author: "Olivier"
-      author_profile: true
+      author_profile: false
+      classes: wide
 
 # Collections
 collections:
