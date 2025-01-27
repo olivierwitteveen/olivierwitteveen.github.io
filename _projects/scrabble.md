@@ -1,9 +1,9 @@
 ---
 title: "Statistical mechanics of tile-based word games"
-excerpt: "Pairwise maximum entropy modelling of connected graphs on a Scrabble board."
-permalink: /projects/scrabble/
+excerpt: "Maximum-entropy distribution of connected graphs on a Scrabble board."
+permalink: /projects2/scrabble/
 header:
-  teaser: /assets/images/scrabble.png
+  teaser: /assets/images/scrabble_teaser.png
 ---
 
 Coming soon!
