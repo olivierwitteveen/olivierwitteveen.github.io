@@ -84,7 +84,14 @@ include:
     - _pages
 
 # Google Analytics
-google_analytics: G-GQN06STWKW
+google_analytics: 
+
+# Analytics
+analytics:
+  provider               : "google" # false (default), "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : G-GQN06STWKW
+    anonymize_ip         : # true, false (default)
 
 # Exclude from processing.
 # The following items will not be processed, by default.
