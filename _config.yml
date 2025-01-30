@@ -85,6 +85,9 @@ atom_feed:
 include:
     - _pages
 
+# Google Analytics
+google_analytics: G-GQN06STWKW
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
