@@ -85,7 +85,7 @@ include:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : G-GQN06STWKW
     anonymize_ip         : # true, false (default)
