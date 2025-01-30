@@ -83,9 +83,6 @@ atom_feed:
 include:
     - _pages
 
-# Google Analytics
-google_analytics: 
-
 # Analytics
 analytics:
   provider               : "google" # false (default), "google-universal", "google-gtag", "custom"
