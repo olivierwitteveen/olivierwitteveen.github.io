@@ -6,4 +6,8 @@ header:
   teaser: /assets/images/socRNA_teaser.jpg
 ---
 
-[Link](https://www.biorxiv.org/content/10.1101/2024.04.08.588516v1.abstract)
+## Reference:
+
+M. F. Madern, S. Yang, O. Witteveen, H. A. Segeren, M. Bauer, and M. E. Tanenbaum, Long-term imaging of individual ribosomes reveals ribosome cooperativity in mRNA translation, Cell 0, (2025).
+
+[Link](https://www.cell.com/cell/fulltext/S0092-8674(25)00045-5)
