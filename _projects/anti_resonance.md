@@ -8,6 +8,4 @@ header:
 
 ## References
 
-S.J. Rosen, O. Witteveen, N. Baxter, R.S. Lach, M. Bauer, and M.Z. Wilson, "Anti-resonance in developmental signaling regulates cell fate decisions," bioRxiv 2025.02.04.636331; doi: https://doi.org/10.1101/2025.02.04.636331, (2025). 
-
-[Link](https://www.biorxiv.org/content/10.1101/2025.02.04.636331)
+S. J. Rosen, O. Witteveen, N. Baxter, R. S. Lach, M. Bauer, and M. Z. Wilson, Anti-Resonance in Developmental Signaling Regulates Cell Fate Decisions, [bioRxiv 2025.02.04.636331](https://www.biorxiv.org/content/10.1101/2025.02.04.636331) (2025).
