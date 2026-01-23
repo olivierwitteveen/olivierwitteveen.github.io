@@ -13,4 +13,4 @@ header:
 
 ## References
 
-O. Witteveen, Towards NLO corrections to massive \\( gg \rightarrow VV \\) production for off-shell Higgs studies at the LHC, [CERN Document Server](https://cds.cern.ch/record/2788557?ln=en) (2021).
+**O. Witteveen**, Towards NLO corrections to massive \\( gg \rightarrow VV \\) production for off-shell Higgs studies at the LHC, [CERN Document Server](https://cds.cern.ch/record/2788557?ln=en) (2021).
