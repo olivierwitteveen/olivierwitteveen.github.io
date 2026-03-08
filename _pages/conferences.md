@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About
+title: Conferences, workshops, and summer schools
 author: "Olivier"
 author_profile: true
 permalink: /conferences/
@@ -15,6 +15,8 @@ classes: wide
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
   type="text/javascript">
 </script>
+
+A list of my whereabouts. 
 
 ## Conferences & Workshops
 
