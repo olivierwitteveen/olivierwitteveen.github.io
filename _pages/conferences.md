@@ -22,10 +22,6 @@ A list of my whereabouts (last updated March 2026).
 
 ## Upcoming
 
-**DPG Spring Meeting**  
-*March 2026 — TU Dresden, Germany*  
-Talk: *“Statistical mechanics of connected graphs in Scrabble”*
-
 **COSYNE — Computational and Systems Neuroscience**  
 *March 2026 — Lisbon & Cascais, Portugal*  
 Workshop: *“100 years of spikes — but why?”*  
@@ -35,6 +31,11 @@ Invited talk: *“Discrete priors optimise information transmission in the canon
 *May 2026 — Max Planck Institute for the Physics of Complex Systems (MPIPKS), Dresden, Germany*  
 Talk: *“Statistical Mechanics of Connected Graphs in Scrabble”*
 
+## 2026
+
+**DPG Spring Meeting**  
+*March 2026 — TU Dresden, Germany*  
+Talk: *“Statistical mechanics of connected graphs in Scrabble”*
 
 ## 2025
 
