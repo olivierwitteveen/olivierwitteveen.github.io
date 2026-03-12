@@ -14,7 +14,7 @@ Olivier:
       url: "https://scholar.google.com/citations?hl=en&user=qED26FEAAAAJ"
     - label: "TU Delft page"
       icon: "fas fa-fw fa-university"
-      url: "https://www.tudelft.nl/staff/o.z.j.witteveen/"
+      url: "https://www.tudelft.nl/en/staff/o.z.j.witteveen/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:O.Z.J.Witteveen@tudelft.nl"
