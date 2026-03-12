@@ -16,7 +16,7 @@ classes: wide
   type="text/javascript">
 </script>
 
-A list of my whereabouts. 
+A list of my whereabouts (last updated March 2026). 
 
 ## Conferences & Workshops
 
