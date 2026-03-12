@@ -29,7 +29,7 @@ Invited talk: *“Discrete priors optimise information transmission in the canon
 
 **IDeAS26 — Information & Decisions Across Scales: Constraints and Optimality in Neural and Biological Networks**  
 *May 2026 — Max Planck Institute for the Physics of Complex Systems (MPIPKS), Dresden, Germany*  
-Talk: *“Statistical Mechanics of Connected Graphs in Scrabble”*
+Talk: *“Statistical mechanics of connected graphs in Scrabble”*
 
 ## 2026
 
