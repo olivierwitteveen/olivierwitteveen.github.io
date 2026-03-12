@@ -1,5 +1,5 @@
 ---
-title: "Optimizing information transmission in the canonical Wnt pathway"
+title: "Optimising information transmission in optogenetic Wnt signalling"
 excerpt: "Deriving an optimal code for Wnt signaling."
 permalink: /projects/wnt_decoding/
 header:
