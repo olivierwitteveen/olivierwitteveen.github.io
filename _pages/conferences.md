@@ -18,25 +18,25 @@ classes: wide
 
 A list of my whereabouts (last updated March 2026). 
 
-## Conferences & Workshops
+# Conferences & Workshops
 
-### Upcoming
+## Upcoming
 
 **DPG Spring Meeting**  
 *March 2026 — TU Dresden, Germany*  
-Talk: *“Statistical Mechanics of Connected Graphs in Scrabble”*
+Talk: *“Statistical mechanics of connected graphs in Scrabble”*
 
 **COSYNE — Computational and Systems Neuroscience**  
 *March 2026 — Lisbon & Cascais, Portugal*  
 Workshop: *“100 years of spikes — but why?”*  
 Invited talk: *“Discrete priors optimise information transmission in the canonical Wnt pathway”*
 
-**Information & Decisions Across Scales: Constraints and Optimality in Neural and Biological Networks (IDeAS26)**  
+**IDeAS26 — Information & Decisions Across Scales: Constraints and Optimality in Neural and Biological Networks**  
 *May 2026 — Max Planck Institute for the Physics of Complex Systems (MPIPKS), Dresden, Germany*  
 Talk: *“Statistical Mechanics of Connected Graphs in Scrabble”*
 
 
-### 2025
+## 2025
 
 **NWO Biophysics**  
 *October 2025 — Veldhoven, Netherlands*  
@@ -55,7 +55,7 @@ Talk: *“Optimising information transmission in the canonical Wnt pathway”*
 Poster
 
 
-### 2024
+## 2024
 
 **NWO Biophysics**  
 *October 2024 — Veldhoven, Netherlands*  
@@ -66,7 +66,7 @@ Poster
 Poster
 
 
-### 2023
+## 2023
 
 **NWO Biophysics**  
 *October 2023 — Veldhoven, Netherlands*  
