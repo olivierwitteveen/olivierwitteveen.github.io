@@ -8,7 +8,7 @@ header:
 
 ## Reference:
 
-**O. Witteveen**, S. J. Rosen, R. S. Lach, M. Z. Wilson, and M. Bauer, Optimizing information transmission in optogenetic Wnt signaling, [arXiv:2506.22633](https://arxiv.org/abs/2506.22633).
+**O. Witteveen**, S. J. Rosen, R. S. Lach, M. Z. Wilson, and M. Bauer, Optimizing information transmission in optogenetic Wnt signaling, [Physical Review Research 8, 013296](https://doi.org/10.1103/f7qj-f7qy) (2026).
 
 
 
