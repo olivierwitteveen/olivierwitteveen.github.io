@@ -16,22 +16,22 @@ classes: wide
   type="text/javascript">
 </script>
 
-A list of my whereabouts (last updated March 2026). 
+A list of my whereabouts (last updated May 2026). 
 
 # Conferences & Workshops
 
 ## Upcoming
-
-**COSYNE — Computational and Systems Neuroscience**  
-*March 2026 — Lisbon & Cascais, Portugal*  
-Workshop: *“100 years of spikes — but why?”*  
-Invited talk: *“Discrete priors optimise information transmission in the canonical Wnt pathway”*
 
 **IDeAS26 — Information & Decisions Across Scales: Constraints and Optimality in Neural and Biological Networks**  
 *May 2026 — Max Planck Institute for the Physics of Complex Systems (MPIPKS), Dresden, Germany*  
 Talk: *“Statistical mechanics of connected graphs in Scrabble”*
 
 ## 2026
+
+**COSYNE — Computational and Systems Neuroscience**  
+*March 2026 — Lisbon & Cascais, Portugal*  
+Workshop: *“100 years of spikes — but why?”*  
+Invited talk: *“Discrete priors optimise information transmission in the canonical Wnt pathway”*
 
 **DPG Spring Meeting**  
 *March 2026 — TU Dresden, Germany*  
